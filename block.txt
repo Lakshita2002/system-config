@@ -1,0 +1,46 @@
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+loop0    7:0    0 290.4M  1 loop /snap/vlc/1700
+loop1    7:1    0 140.7M  1 loop /snap/gnome-3-26-1604/102
+loop2    7:2    0   956K  1 loop /snap/gnome-logs/100
+loop3    7:3    0   2.5M  1 loop /snap/gnome-calculator/826
+loop4    7:4    0  57.2M  1 loop /snap/sublime-text/97
+loop5    7:5    0  99.2M  1 loop /snap/core/10958
+loop6    7:6    0  26.1M  1 loop /snap/heroku/4044
+loop7    7:7    0 150.2M  1 loop /snap/okular/109
+loop8    7:8    0   276K  1 loop /snap/gnome-characters/708
+loop9    7:9    0  76.7M  1 loop /snap/discord/122
+loop10   7:10   0  55.5M  1 loop /snap/core18/1988
+loop11   7:11   0 323.5M  1 loop /snap/kde-frameworks-5-qt-5-15-core20/14
+loop12   7:12   0    99M  1 loop /snap/core/11081
+loop13   7:13   0  64.8M  1 loop /snap/gtk-common-themes/1514
+loop14   7:14   0   2.2M  1 loop /snap/gnome-system-monitor/148
+loop15   7:15   0  26.1M  1 loop /snap/heroku/4048
+loop16   7:16   0 140.7M  1 loop /snap/gnome-3-26-1604/100
+loop17   7:17   0  55.5M  1 loop /snap/core18/1997
+loop18   7:18   0   2.5M  1 loop /snap/gnome-calculator/884
+loop19   7:19   0   2.2M  1 loop /snap/gnome-system-monitor/157
+loop20   7:20   0 161.4M  1 loop /snap/gnome-3-28-1804/128
+loop21   7:21   0  67.6M  1 loop /snap/sublime-text/85
+loop22   7:22   0 162.9M  1 loop /snap/gnome-3-28-1804/145
+loop23   7:23   0 290.6M  1 loop /snap/kde-frameworks-5-qt-5-14-core18/4
+loop24   7:24   0 179.6M  1 loop /snap/spotify/46
+loop25   7:25   0   219M  1 loop /snap/gnome-3-34-1804/66
+loop26   7:26   0 295.3M  1 loop /snap/vlc/2103
+loop27   7:27   0   548K  1 loop /snap/gnome-logs/103
+loop28   7:28   0  75.7M  1 loop /snap/discord/121
+loop29   7:29   0 217.9M  1 loop /snap/gnome-3-34-1804/60
+loop30   7:30   0   276K  1 loop /snap/gnome-characters/570
+loop31   7:31   0  61.7M  1 loop /snap/core20/975
+loop32   7:32   0    63M  1 loop /snap/okular/108
+loop33   7:33   0  65.1M  1 loop /snap/gtk-common-themes/1515
+loop34   7:34   0  61.6M  1 loop /snap/core20/904
+sda      8:0    0 931.5G  0 disk 
+├─sda1   8:1    0   499M  0 part 
+├─sda2   8:2    0    99M  0 part /boot/efi
+├─sda3   8:3    0    16M  0 part 
+├─sda4   8:4    0 194.7G  0 part 
+├─sda5   8:5    0 345.6G  0 part 
+├─sda6   8:6    0 146.5G  0 part 
+├─sda7   8:7    0  97.7G  0 part 
+├─sda8   8:8    0 136.2G  0 part /
+└─sda9   8:9    0  10.3G  0 part [SWAP]

@@ -1,0 +1,4 @@
+Distributor ID:	Ubuntu
+Description:	Ubuntu 18.10
+Release:	18.10
+Codename:	cosmic
